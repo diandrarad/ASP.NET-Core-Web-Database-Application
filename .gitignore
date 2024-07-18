@@ -1,0 +1,114 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+out/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET
+wwwroot/
+web.config
+wwwroot/appsettings.json
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+NUGET
+*.dll
+*.exe
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode-test/
+.idea/
+_ReSharper.*
+*.[Rr]e[Ss]harper
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Rider
+.idea/
+.idea/*
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Docker
+*.containerproj
+*.containerproj.user
+.vscode-test/
+.vscode/
+.Dockerfile*
+
+# JetBrains
+*.sln.dotsettings
+*.sln.dotsettings.user
+.idea/
+.idea/*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Windows image file caches
+*.diagsession
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# ASP.NET
+wwwroot/appsettings.json
+wwwroot/appsettings.*.json
+
+# Local History for Rider
+.idea/.idea.LocalHistory/
+
+# Rider
+.idea/
+.idea/*
+
+# VS Code directories
+.vscode/
+.vscode-test/
